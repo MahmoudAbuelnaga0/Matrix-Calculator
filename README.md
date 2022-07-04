@@ -3,7 +3,7 @@
 A matrix calculator that takes two (n x m) matrices and do mathematical operations on them.
 Supports up to (10 x 10) matrix.
 
-## Supported operaions:
+## Supported operations:
 * Addition
 * Subtraction
 * Determinant
